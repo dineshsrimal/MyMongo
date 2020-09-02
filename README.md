@@ -1,0 +1,2 @@
+# MyMongo
+MongoDB sample
